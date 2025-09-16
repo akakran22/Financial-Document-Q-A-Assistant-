@@ -1,0 +1,7 @@
+streamlit>=1.18
+pandas>=1.5
+numpy
+pdfplumber
+PyPDF2
+openpyxl
+requests
