@@ -24,7 +24,7 @@ A powerful Streamlit application that allows users to upload financial documents
 
 1. **Clone or download the project**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/akakran22/Financial-Document-Q-A-Assistant-.git
    cd financial-qa-assistant
    ```
 
